@@ -3,18 +3,18 @@ Yok mari para para wibu bawang, silahkan berbelanja wibu-store by ep-brand menye
 
 ## Loading..... 
 
-#FITUR
+# FITUR
 - kelola Home
 - kelola shop
 
 
-#ERD
+# ERD
  ![ERD](/erd.png)
 
 
 
  
-#Tech Stack
+# Tech Stack
 - FrontEnd : React,
 - Tailwind
 - BackEnd : Node js, express
